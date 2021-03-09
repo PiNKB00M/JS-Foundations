@@ -1,0 +1,9 @@
+{
+    "name": "async-await",
+    "version": "1.0.0",
+    "main": "coding.js",
+    "scripts": {
+        "test": "jest --watch",
+        "test:ci": "jest"
+    }
+}
